@@ -1,0 +1,9 @@
+{
+  "name": "oxylabs-proxy-gateway",
+  "version": "1.0.0",
+  "description": "Proxy gateway for Oxylabs residential proxy",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "https-proxy-agent": "^7.0.2"
+  }
+}
